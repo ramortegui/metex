@@ -1,6 +1,7 @@
 # Metex
 
-Weather lookup app based on Little Elixit & OTP book.
+Weather lookup app based on Little Elixit & OTP book. (With a bit of updates
+and upgrades)
 
 ## Use
 
